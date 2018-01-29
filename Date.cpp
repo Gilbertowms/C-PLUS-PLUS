@@ -6,7 +6,12 @@
 //Section: OOPSAB
 ***********************************************************/
 
+// A class to be used to hold the expiry date of the perishable items. 
 
+/*
+The Date class encapsulates a date that is readable by an std::istream 
+and printable by an std::ostream using the following format for both reading and writing: YYYY/MM/DD  
+*/
 
 #include "Date.h"
 
