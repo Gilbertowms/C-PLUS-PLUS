@@ -7,6 +7,9 @@
 ***********************************************************/
 
 
+//A class for non-perishable products that implements the requirements of the “Product” interface 
+//This class is derived from "Product"
+
 #ifndef SICT_NONPERISHBLE_H
 #define SICT_NONPERISHBLE_H
 
