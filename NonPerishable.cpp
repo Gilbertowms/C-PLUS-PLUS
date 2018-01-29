@@ -6,7 +6,7 @@
 //Section: OOPSAB
 ***********************************************************/
 
-
+//A class for non-perishable products that implements the requirements of the “Product” interface 
 
 
 #define _CRT_SECURE_NO_WARNINGS
