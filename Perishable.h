@@ -1,3 +1,8 @@
+
+
+//A class for perishable products that inherits from the “NonPerishable” class and provides an expiry date.
+
+
 #ifndef SICT_PERISHABLE_H
 #define SICT_PERISHABLE_H
 
