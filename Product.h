@@ -1,10 +1,8 @@
-// Final Project Milestone 4
-/**********************************************************
+/***********************************************************
 //Name: Gilberto Wagner Miranda da Silva
-//Student Number: 139.236.160
-//Email: gwmiranda-da-silva@myseneca.ca
-//Section: OOPSAB
+//Last modification: 12/21/2017
 ***********************************************************/
+
 
 /*--===INTERFACE===--*/
 
