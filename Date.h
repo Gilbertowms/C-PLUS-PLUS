@@ -1,6 +1,6 @@
-// Final Project Milestone 1
 /***********************************************************
 //Name: Gilberto Wagner Miranda da Silva
+//Last modification: 12/21/2017
 ***********************************************************/
 
 // A class to be used to hold the expiry date of the perishable items. 
