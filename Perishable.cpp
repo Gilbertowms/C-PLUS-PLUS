@@ -1,3 +1,6 @@
+
+//A class for perishable products that inherits from the “NonPerishable” class and provides an expiry date.
+
 #include <fstream>
 #include<cstring>
 #include "Perishable.h"
