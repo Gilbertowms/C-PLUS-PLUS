@@ -1,3 +1,9 @@
+/***********************************************************
+//Name: Gilberto Wagner Miranda da Silva
+//Last modification: 12/21/2017
+***********************************************************/
+
+
 
 //A class for perishable products that inherits from the “NonPerishable” class and provides an expiry date.
 
