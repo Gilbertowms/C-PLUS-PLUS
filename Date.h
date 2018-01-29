@@ -39,11 +39,8 @@ namespace sict {
 		int m_comparator;
 		int m_errorState;
 
-
-
 		int mdays(int, int)const;
 		void errCode(int errorCode);
-
 	public:
 		Date();
 		Date(int, int, int);
@@ -62,10 +59,7 @@ namespace sict {
 		std::istream& read(std::istream& istr);
 		std::ostream& write(std::ostream& ostr) const;
 	};
-
 	std::istream& operator>>(std::istream&, Date&);
 	std::ostream& operator<<(std::ostream&, const Date&);
-
-
 }
 #endif
