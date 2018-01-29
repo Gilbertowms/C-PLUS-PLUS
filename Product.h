@@ -6,6 +6,7 @@
 //Section: OOPSAB
 ***********************************************************/
 
+//interface
 
 #ifndef PRODUCT_H
 #define PRODUCT_H
