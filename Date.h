@@ -1,9 +1,6 @@
 // Final Project Milestone 1
 /***********************************************************
 //Name: Gilberto Wagner Miranda da Silva
-//Student Number: 139.236.160
-//Email: gwmiranda-da-silva@myseneca.ca
-//Section: OOPSAB
 ***********************************************************/
 
 // A class to be used to hold the expiry date of the perishable items. 
