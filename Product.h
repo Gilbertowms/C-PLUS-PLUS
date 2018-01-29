@@ -19,7 +19,6 @@ namespace sict
 	class Product
 	{
 	public:
-
 		virtual std::fstream& store(std::fstream& file, bool newLine = true) const = 0;
 		virtual std::fstream& load(std::fstream& file) = 0;
 		virtual std::ostream& write(std::ostream& os, bool linear) const = 0;
@@ -33,7 +32,6 @@ namespace sict
 		virtual int operator+=(int) = 0;
 		virtual bool operator>(const Product&) const = 0;
 	};
-
 	std::ostream& operator<<(std::ostream&, const Product&);
 	std::istream& operator >> (std::istream&, Product&);
 	double operator+=(double&, const Product&);
